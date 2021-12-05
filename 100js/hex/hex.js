@@ -9,8 +9,5 @@ const generateColor = () => {
 
 btn.addEventListener("click", generateColor);
 
-// let color = Math.random();
-// color = Math.random().toString();
-// color = Math.random().toString(16).substring(2, 8);
 
-// console.log(color);
+generateColor();
