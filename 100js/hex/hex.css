@@ -58,8 +58,13 @@ img {
   margin-bottom: 2rem;
 }
 
-.count {
+.hex {
   font-size: 4rem;
+  border: 3px solid var(--white);
+  padding: 0 6rem;
+  background: #fff;
+  color: #000;
+  border-radius: 5px;
 }
 
 .buttons button {
