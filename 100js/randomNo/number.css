@@ -44,7 +44,7 @@ img {
   height: 100vh;
 }
 
-.hex-div {
+.counter-div {
   width: 40rem;
   border: 1px solid var(--grey);
   padding: 1rem;
@@ -58,13 +58,8 @@ img {
   margin-bottom: 2rem;
 }
 
-.hex {
+.count {
   font-size: 4rem;
-  border: 3px solid var(--white);
-  padding: 0 6rem;
-  background: #fff;
-  color: #000;
-  border-radius: 5px;
 }
 
 .buttons button {
